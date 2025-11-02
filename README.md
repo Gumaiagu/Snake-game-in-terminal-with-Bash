@@ -16,7 +16,7 @@ To check which character should be placed in each position, four options are use
 
 - Snake's head: the last element in the list of positions that the snake occupies, represented by an at sign (@).
 
-- Apple: is in a single variable, represented by the letter `p`.
+- Apple: is in a single variable, represented by the letter `ç`.
 
 - Snake's body: an element in the list of positions the snake occupies, represented by the letter `o`.
 
